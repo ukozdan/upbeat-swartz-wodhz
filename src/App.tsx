@@ -4,6 +4,7 @@ import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
 import Link from "@material-ui/core/Link";
 import ProTip from "./ProTip";
+import Blog from "./blog/Blog";
 //import "./styles.scss";
 
 function Copyright() {
@@ -28,6 +29,7 @@ export default function App() {
         </Typography>
         <ProTip />
         <Copyright />
+        <Blog />
       </Box>
     </Container>
   );

@@ -10,10 +10,13 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "4.11.2",
+    "@types/markdown-to-jsx": "6.11.3",
     "@types/material-ui": "0.21.8",
     "@types/react": "17.0.0",
     "@types/react-dom": "17.0.0",
     "clsx": "1.1.1",
+    "markdown-to-jsx": "7.1.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.0"
